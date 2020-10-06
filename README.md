@@ -1,5 +1,5 @@
 # JavaScript Fundamentals: JavaScript Variables Lab
-
+ 
 ## Learning Goals
 
 * Practice using the `const` and `let` variables in JavaScript
